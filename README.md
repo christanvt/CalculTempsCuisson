@@ -19,7 +19,7 @@ Afficher le temps de cuisson d’une viande en fonction du type de la viande, du
  25 minutes si on le veut BIEN CUIT
 
 - Pour cuire 400 grammes de porc, il faut : 
- 15 minutes si on le veut BLEU
+    - 15 minutes si on le veut BLEU
  25 minutes si on le veut A POINT 
  40 minutes si on le veut BIEN CUIT
 
